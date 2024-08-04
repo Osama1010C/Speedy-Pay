@@ -2,7 +2,7 @@
 ## Before Using This website you have to :
 ---------------------------------------------
 
-### 1) Download Images of website from here [Website Images](https://drive.google.com/drive/folders/1ahO3CVqCz3MBBycxqkMn_ZK5NOb3R3Ut?usp=sharing) and put it in this folder [`img`](Speedy-Pay)
+### 1) Download Images of website from here [Website Images](https://drive.google.com/drive/folders/1ahO3CVqCz3MBBycxqkMn_ZK5NOb3R3Ut?usp=sharing) and put it in this folder [`img`](imgs)
 
 ### 2) Download a library from here [Important library]([https://drive.google.com/drive/folders/1ahO3CVqCz3MBBycxqkMn_ZK5NOb3R3Ut?usp=sharing](https://drive.google.com/drive/folders/16BSrR8mRwy8THRNySmHxNy71S4dpzuBU?usp=sharing)) and put it in this folder [`pdf`](Speedy-Pay/pdf)
 
