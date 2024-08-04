@@ -2,7 +2,7 @@
 ## Before Using This website you have to :
 ---------------------------------------------
 
-### 1) Go to phpmyadmin and import this file from project files -> `speedypay_DB.sql`
+### 1) Go to phpmyadmin and import this file from project files -> [`speedypay_DB.sql`](speedypay_DB.sql)
 
 ### 2) Make sure you Start Apache and MySQL from XAMPP :
 
