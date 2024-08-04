@@ -2,9 +2,13 @@
 ## Before Using This website you have to :
 ---------------------------------------------
 
-### 1) Go to phpmyadmin and import this file from project files -> [`speedypay_DB.sql`](Database/speedypay_DB.sql)
+### 1) Download Images of website from here [Website Images](https://drive.google.com/drive/folders/1ahO3CVqCz3MBBycxqkMn_ZK5NOb3R3Ut?usp=sharing) and put it in this folder [`img`](Speedy-Pay/imgs)
 
-### 2) Make sure you Start Apache and MySQL from XAMPP :
+### 2) Download a library from here [Important library]([https://drive.google.com/drive/folders/1ahO3CVqCz3MBBycxqkMn_ZK5NOb3R3Ut?usp=sharing](https://drive.google.com/drive/folders/16BSrR8mRwy8THRNySmHxNy71S4dpzuBU?usp=sharing)) and put it in this folder [`pdf`](Speedy-Pay/pdf)
+
+### 3) Go to phpmyadmin and import this file from project files -> [`speedypay_DB.sql`](Database/speedypay_DB.sql)
+
+### 4) Make sure you Start Apache and MySQL from XAMPP :
 
 ![speedy pay xamp](https://github.com/user-attachments/assets/40f34707-63b7-456a-ac0d-8036feced4de)
 
